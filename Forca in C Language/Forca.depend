@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1497748481 source:c:\users\alberto\documents\linguagem c\forca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	"forca.h"
+
+1497570850 c:\users\alberto\documents\linguagem c\forca\forca.h
+
